@@ -1,0 +1,129 @@
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "0yI-eI-2DF"; */
+"0yI-eI-2DF.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0yI-eI-2DF"; */
+"0yI-eI-2DF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "2NO-hf-Gg9"; */
+"2NO-hf-Gg9.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2NO-hf-Gg9"; */
+"2NO-hf-Gg9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "36g-Zu-DqT"; */
+"36g-Zu-DqT.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "36g-Zu-DqT"; */
+"36g-Zu-DqT.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Order No: 127890012"; ObjectID = "6eV-ny-GpQ"; */
+"6eV-ny-GpQ.configuration.title" = "Order No: 127890012";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6eV-ny-GpQ"; */
+"6eV-ny-GpQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "6iz-QI-yc6"; */
+"6iz-QI-yc6.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6iz-QI-yc6"; */
+"6iz-QI-yc6.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "7M1-RE-TyV"; */
+"7M1-RE-TyV.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7M1-RE-TyV"; */
+"7M1-RE-TyV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Offers"; ObjectID = "CXl-5g-X2x"; */
+"CXl-5g-X2x.configuration.title" = "Offers";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CXl-5g-X2x"; */
+"CXl-5g-X2x.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "G3d-Oa-ZbH"; */
+"G3d-Oa-ZbH.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G3d-Oa-ZbH"; */
+"G3d-Oa-ZbH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Use this coupon to avail a FREE Gift"; ObjectID = "KLu-A5-U2B"; */
+"KLu-A5-U2B.text" = "Use this coupon to avail a FREE Gift";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "RBS-Rq-sEG"; */
+"RBS-Rq-sEG.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RBS-Rq-sEG"; */
+"RBS-Rq-sEG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Apply Offer"; ObjectID = "Skn-6C-oDH"; */
+"Skn-6C-oDH.configuration.title" = "Apply Offer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Skn-6C-oDH"; */
+"Skn-6C-oDH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Order No: 235678945"; ObjectID = "XKb-Yo-Whh"; */
+"XKb-Yo-Whh.configuration.title" = "Order No: 235678945";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XKb-Yo-Whh"; */
+"XKb-Yo-Whh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Use this coupon to avail a FREE Gift"; ObjectID = "Y5M-sc-9xq"; */
+"Y5M-sc-9xq.text" = "Use this coupon to avail a FREE Gift";
+
+/* Class = "UIButton"; configuration.title = "Get Rs.80 on your first 2 orders. Coupon Code: BIRTHDAY300"; ObjectID = "Y6X-eb-sbV"; */
+"Y6X-eb-sbV.configuration.title" = "Get Rs.80 on your first 2 orders. Coupon Code: BIRTHDAY300";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Y6X-eb-sbV"; */
+"Y6X-eb-sbV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "ZdI-kr-YHm"; */
+"ZdI-kr-YHm.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZdI-kr-YHm"; */
+"ZdI-kr-YHm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coupon Applied"; ObjectID = "ZfP-2H-xlA"; */
+"ZfP-2H-xlA.text" = "Coupon Applied";
+
+/* Class = "UIButton"; configuration.title = "A free surprise gift for you. Coupon Code: BDAYPARTY."; ObjectID = "aSE-vy-MWu"; */
+"aSE-vy-MWu.configuration.title" = "A free surprise gift for you. Coupon Code: BDAYPARTY.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aSE-vy-MWu"; */
+"aSE-vy-MWu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Select the order to apply the offer/deal"; ObjectID = "cwP-mC-3gd"; */
+"cwP-mC-3gd.text" = "Select the order to apply the offer/deal";
+
+/* Class = "UIButton"; configuration.title = "Get Rs.300 on your order. Coupon Code: BIRTHDAY300"; ObjectID = "cyx-QA-nhU"; */
+"cyx-QA-nhU.configuration.title" = "Get Rs.300 on your order. Coupon Code: BIRTHDAY300";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cyx-QA-nhU"; */
+"cyx-QA-nhU.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Offers"; ObjectID = "dIs-v6-nrM"; */
+"dIs-v6-nrM.configuration.title" = "Offers";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dIs-v6-nrM"; */
+"dIs-v6-nrM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "That's it folks"; ObjectID = "eb6-pO-dvM"; */
+"eb6-pO-dvM.text" = "That's it folks";
+
+/* Class = "UILabel"; text = "Use this coupon to avail a FREE Gift"; ObjectID = "iXN-RM-CnH"; */
+"iXN-RM-CnH.text" = "Use this coupon to avail a FREE Gift";
+
+/* Class = "UILabel"; text = "Use this coupon to avail a FREE Gift"; ObjectID = "jWc-Ji-gX6"; */
+"jWc-Ji-gX6.text" = "Use this coupon to avail a FREE Gift";
+
+/* Class = "UISegmentedControl"; mI1-kb-ZnH.segmentTitles[0] = "Daily Offers"; ObjectID = "mI1-kb-ZnH"; */
+"mI1-kb-ZnH.segmentTitles[0]" = "Daily Offers";
+
+/* Class = "UISegmentedControl"; mI1-kb-ZnH.segmentTitles[1] = "Deals"; ObjectID = "mI1-kb-ZnH"; */
+"mI1-kb-ZnH.segmentTitles[1]" = "Deals";
+
+/* Class = "UIButton"; configuration.title = "Get Flat Rs.75 on your order. Coupon Code: BIRTHDAY75"; ObjectID = "wgz-Lm-cfD"; */
+"wgz-Lm-cfD.configuration.title" = "Get Flat Rs.75 on your order. Coupon Code: BIRTHDAY75";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wgz-Lm-cfD"; */
+"wgz-Lm-cfD.normalTitle" = "Button";
