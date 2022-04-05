@@ -18,8 +18,8 @@ class AnimationViewController: UIViewController {
     }
     func lottieAnimation(){
         let animationview = AnimationView(name:"animation_applied")
-        animationview.frame = CGRect(x: 0, y: 0, width: 200, height: 500)
-        animationview.center = self.view.center
+        animationview.frame = CGRect(x: 110, y: 100, width: 200, height: 500)
+//        animationview.center = self.view.center
         animationview.contentMode = .scaleAspectFit
         view.addSubview(animationview)
         animationview.play()
